@@ -26,3 +26,7 @@ Vendia is founded by the creator of AWS Lambda, Tim Wagner.
 
 I have interests in Serverless, AWS CDK, Leadership, Observability and DevOps. Which is what I am here for, to capture my thoughts
 and to share some of my successes and failures in trying to bring these concepts together
+
+## Blog
+
+Feel free follow me on my socials / read my blog. More information here. [https://dalejsalter.com/](https://dalejsalter.com/)
